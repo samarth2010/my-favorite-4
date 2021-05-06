@@ -1,0 +1,53 @@
+.imgs {
+    border-radius: 75px;
+    border-radius: 50%;
+    height: 250px;
+}
+
+#mfb {
+    width: 100%;
+}
+
+#ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+#ul li {
+    margin: 0;
+    padding: 10px 0;
+    list-style: none;
+    width: 20%;
+    text-align: center;
+    background: #000000;
+}
+
+#ul li:hover{
+opacity: 0.8;
+font-size: 40px;
+}
+
+#ul li a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+div {
+    width: 100%;
+}
+
+h5 {
+    text-decoration: underline;
+}
+
+#neilA {
+    width: 100%;
+    height: auto;
+}
